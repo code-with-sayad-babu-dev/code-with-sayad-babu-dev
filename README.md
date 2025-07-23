@@ -1,78 +1,57 @@
-<!-- GitHub README.md accepts HTML -->
-<h1 align="center">👋 Hello, I'm Sayad Babu</h1>
-<h3 align="center" style="color: #555;">Full Stack Developer | Laravel Artisan | Web Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Sayad Babu</h1>
+<h3 align="center">🚀 Laravel Developer | SaaS Builder | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Passionate+Laravel+Developer;Expert+in+HTML+CSS+JS+Blade;Love+clean+code+and+UI+Patterns" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Laravel+Developer;SaaS+Application+Builder;Open+Source+Contributor;Drag+%26+Drop+Template+Designer" alt="Typing SVG" />
 </p>
 
-<hr>
+---
 
-<h2>🔍 About Me</h2>
-<ul>
-  <li>🔧 Laravel, HTML, CSS, JavaScript এবং GitHub নিয়ে প্রতিনিয়ত কাজ করছি</li>
-  <li>🌱 বর্তমানে শেখা হচ্ছে SaaS Architecture, GrapesJS Integration ও Livewire</li>
-  <li>🚀 SaaS-based prescription and appointment system উন্নয়নে কাজ করছি</li>
-  <li>🛠️ API Integration, Auth System এবং Template Editor নিয়ে অভিজ্ঞতা আছে</li>
-</ul>
+### 🔥 About Me
 
-<hr>
+- 👨‍💻 I’m working on a **Laravel-based Prescription & Appointment Management SaaS System**
+- 📚 Currently mastering **Livewire, GrapesJS Integration, and AI-powered Patient Flow**
+- 🤝 I’m open to collaborate on **Laravel projects, startups, and open-source tools**
+- 🧠 Obsessed with **clean UI, automation, and intelligent forms**
+- 🌍 Based in **Bangladesh** | Fluent in **Laravel, MySQL, Bootstrap, jQuery**
 
-<h2>🧰 Tech Stack</h2>
-<p>
-  <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-0d6efd?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-6e07f3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/GrapesJS-282828?style=for-the-badge&logo=grapesjs&logoColor=white" />
-</p>
+---
 
-<hr>
+### 🛠️ Tech Stack
 
-<h2>📌 Highlighted Projects</h2>
+![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![GrapesJS](https://img.shields.io/badge/-GrapesJS-282828?style=flat&logo=grapesjs&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<table>
-  <tr>
-    <td><b>🩺 Laravel Prescription SaaS</b></td>
-    <td>Multi-user system with dynamic medicine input, auto-fill, PDF export & GrapesJS template editor</td>
-  </tr>
-  <tr>
-    <td><b>📅 Appointment Manager</b></td>
-    <td>Cross-platform patient form, AI-powered prompt in Bangla, Bootstrap based layout</td>
-  </tr>
-  <tr>
-    <td><b>💊 Smart Medicine Search</b></td>
-    <td>Autocomplete from 21,000+ medicine database with dose split field & suggestions</td>
-  </tr>
-</table>
+---
 
-<hr>
+### 📈 GitHub Stats
 
-<h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-with-sayad-babu-dev&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-sayad-babu-dev&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-sayad-babu-dev&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-sayad-babu-dev&layout=compact&theme=tokyonight" width="45%"/>
 </p>
 
-<hr>
+---
 
-<h2>📫 Contact</h2>
-<p>
-  💼 <strong>Email:</strong> <a href="mailto:youremail@example.com">youremail@example.com</a><br>
-  🌐 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a>
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="mailto:youremail@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
 </p>
 
-<hr>
+---
 
-<h2>🧠 Vocabulary of the Day</h2>
-<ul>
-  <li><b>Robust</b> – Powerful & reliable | "Laravel is a robust framework."</li>
-  <li><b>Deploy</b> – Make a site live | "I deploy my apps via cPanel & Git."</li>
-  <li><b>Refactor</b> – Rewrite code to improve | "I refactored my controller for clarity."</li>
-  <li><b>Reusable</b> – Used again | "Created reusable Blade components."</li>
-  <li><b>Integrate</b> – Connect with system | "Integrated GrapesJS into my Laravel app."</li>
-</ul>
+### 🧪 Highlighted Projects
+
+| Project | Description |
+|--------|-------------|
+| 🩺 Prescription SaaS | Laravel 10 | GrapesJS integration | Patient Autofill |
+| 📅 Appointment AI | Bootstrap-based form | AI prompt system in Bangla |
+| 🧠 Smart Medicine | Auto-suggestion from 21,000+ database |
