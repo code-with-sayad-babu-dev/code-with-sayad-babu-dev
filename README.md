@@ -2,56 +2,102 @@
 <h3 align="center">🚀 Laravel Developer | SaaS Builder | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Laravel+Developer;SaaS+Application+Builder;Open+Source+Contributor;Drag+%26+Drop+Template+Designer" alt="Typing SVG" />
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding GIF" width="300">
 </p>
 
----
+<hr>
 
-### 🔥 About Me
+<h3>🔥 About Me</h3>
 
-- 👨‍💻 I’m working on a **Laravel-based Prescription & Appointment Management SaaS System**
-- 📚 Currently mastering **Livewire, GrapesJS Integration, and AI-powered Patient Flow**
-- 🤝 I’m open to collaborate on **Laravel projects, startups, and open-source tools**
-- 🧠 Obsessed with **clean UI, automation, and intelligent forms**
-- 🌍 Based in **Bangladesh** | Fluent in **Laravel, MySQL, Bootstrap, jQuery**
+<ul>
+  <li>👨‍💻 Working on <strong>Prescription & Appointment Management SaaS</strong> using Laravel</li>
+  <li>📚 Learning <strong>Livewire, GrapesJS Integration, and AI form generation</strong></li>
+  <li>🤝 Looking to collaborate on <strong>Laravel-based open source & startup tools</strong></li>
+  <li>🌍 Based in <strong>Bangladesh</strong>, focused on <strong>clean UI and modular systems</strong></li>
+</ul>
 
----
+<hr>
 
-### 🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
-![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![GrapesJS](https://img.shields.io/badge/-GrapesJS-282828?style=flat&logo=grapesjs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GrapesJS-282828?style=for-the-badge&logo=grapesjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
----
+<hr>
 
-### 📈 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-with-sayad-babu-dev&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-sayad-babu-dev&layout=compact&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-sayad-babu-dev&show_icons=true&theme=tokyonight" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-sayad-babu-dev&layout=compact&theme=tokyonight" width="45%">
 </p>
 
----
+<hr>
 
-### 🔗 Connect With Me
+<h3>🔗 Connect With Me</h3>
 
-<p align="left">
-  <a href="mailto:youremail@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+<p>
+  <a href="mailto:youremail@example.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30">
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
+  </a>
 </p>
 
----
+<hr>
 
-### 🧪 Highlighted Projects
+<h3>🧪 Highlighted Projects</h3>
 
-| Project | Description |
-|--------|-------------|
-| 🩺 Prescription SaaS | Laravel 10 | GrapesJS integration | Patient Autofill |
-| 📅 Appointment AI | Bootstrap-based form | AI prompt system in Bangla |
-| 🧠 Smart Medicine | Auto-suggestion from 21,000+ database |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>🩺 Prescription SaaS</td>
+    <td>Laravel 10, GrapesJS integration, Patient Autofill system</td>
+  </tr>
+  <tr>
+    <td>📅 Appointment AI</td>
+    <td>Bootstrap-based AI prompt system in Bangla</td>
+  </tr>
+  <tr>
+    <td>🧠 Smart Medicine</td>
+    <td>Auto-suggestion from 21,000+ medicine database</td>
+  </tr>
+</table>
+
+<hr>
+
+<h3>📘 Vocabulary of the Day</h3>
+
+<ul>
+  <li><strong>Versatile</strong>: Able to do many things – “Laravel is a versatile framework.”</li>
+  <li><strong>Deployment</strong>: Making an app live – “The system is ready for deployment.”</li>
+  <li><strong>Scalable</strong>: Can grow easily – “The SaaS handles 1000+ users easily.”</li>
+</ul>
+
+<hr>
+
+<h3>💬 English Sentence</h3>
+<p><em>“I build intelligent Laravel SaaS systems with auto-suggestion and patient management features.”</em></p>
+
+<hr>
+
+<h3>⚙️ Laravel Code Tip</h3>
+
+<pre><code>Route::middleware(['auth', 'role:doctor'])->group(function () {
+    Route::get('/dashboard', [DoctorController::class, 'index']);
+});</code></pre>
+
+<hr>
+
+<p align="center">✨ Always Coding with ❤️ — @code-with-sayad-babu-dev</p>
