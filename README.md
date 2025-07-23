@@ -84,10 +84,3 @@
 
 ---
 
-<!-- JS Code -->
-<h2 align="center">💻 JavaScript Snippet</h2>
-
-```js
-console.log("Assalamu Alaikum! 👋");
-console.log("Welcome to Sayad Babu's GitHub Profile!");
-<!-- Footer --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=code-with-sayad-babu-dev&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile View Counter" /> </p> 
