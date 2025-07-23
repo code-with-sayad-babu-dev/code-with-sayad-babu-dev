@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Sayad Babu</h1>
+<h3 align="center">🚀 Laravel Developer | SaaS Builder | Tech Enthusiast</h3>
+
 <!-- Typing Animation Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&vCenter=true&width=500&height=50&lines=Assalamu+Alaikum+%F0%9F%91%8B;I'm+Sayad+Babu;Laravel+Developer+from+Bangladesh" alt="Typing Animation" />
