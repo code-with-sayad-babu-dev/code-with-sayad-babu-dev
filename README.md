@@ -3,8 +3,9 @@
 
 <!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&vCenter=true&width=500&height=50&lines=Assalamu+Alaikum+%F0%9F%91%8B;I'm+Sayad+Babu;Laravel+Developer+from+Bangladesh" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&height=45&lines=I'm+Sayad+Babu+%7C+Laravel+Developer;SaaS+App+Architect+%7C+Clean+Code+Enthusiast;Building+Cross-Platform+Healthcare+Solutions;Learning+Everyday+%7C+Coding+Every+Night;Let's+Connect+%7C+Let's+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+
 
 <!-- Coding GIF -->
 <p align="center">
