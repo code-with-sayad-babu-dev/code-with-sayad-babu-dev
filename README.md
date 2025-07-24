@@ -91,11 +91,15 @@
     alt="Top Contributors" height="180"/>
 </p>
 
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-sayad-babu-dev&layout=compact&theme=tokyonight" 
-    alt="Top Languages" height="180"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-sayad-babu-dev&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" 
+    alt="Top Languages used by Sayad Babu" 
+    height="180"
+  />
 </p>
+
 
 
 
