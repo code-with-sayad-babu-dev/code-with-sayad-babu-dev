@@ -36,7 +36,7 @@
 
 
 <!-- Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2>🚀 Featured Projects</h2>
 <table align="center">
   <tr>
     <th>Project</th>
