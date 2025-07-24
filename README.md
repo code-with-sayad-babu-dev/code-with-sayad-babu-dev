@@ -18,7 +18,7 @@
   Specialized in creating medical, clinic, and appointment-based SaaS platforms with real-world impact.
 </p>
 
----
+
 
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
----
+
 
 <!-- Featured Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
@@ -68,56 +68,37 @@
   </tr>
 </table>
 
----
+
+
+<h2 align="left">👉 GitHub Stats</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=code-with-sayad-babu-dev&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats" height="180"/>
+</p>
+
+<p align="center">
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=code-with-sayad-babu-dev&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak Stats" height="180"/>
+</p>
+
+
+<p align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=code-with-sayad-babu-dev&limit=5&theme=transparent&combine_all_yearly_contributions=true" 
+    alt="Top Contributors" height="180"/>
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-sayad-babu-dev&layout=compact&theme=tokyonight" 
+    alt="Top Languages" height="180"/>
+</p>
 
 
 
-<h2 align="center">📊 GitHub Stats & Contributions</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=code-with-sayad-babu-dev&show_icons=true&theme=tokyonight" 
-        height="180" 
-        alt="GitHub Stats" 
-      />
-    </td>
-    <td align="center">
-      <img 
-        src="https://nirzak-streak-stats.vercel.app/?user=code-with-sayad-babu-dev&theme=tokyonight&hide_border=true" 
-        height="180"
-        alt="GitHub Streak Stats" 
-      />
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">🛠️ Top Languages</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-sayad-babu-dev&layout=compact&theme=tokyonight" 
-        height="180" 
-        alt="Top Languages" 
-      />
-    </td>
-    <td align="center">
-      <img 
-        src="https://github-contributor-stats.vercel.app/api?username=code-with-sayad-babu-dev&limit=5&theme=transparent&combine_all_yearly_contributions=true" 
-        height="180"
-        alt="Top Contributors"
-      />
-    </td>
-  </tr>
-</table>
-
-
----
 
 <!-- Contact -->
 <h2 align="center">📞 Connect with Me</h2>
@@ -130,7 +111,7 @@
   </a>
 </p>
 
----
+
 
 
 
