@@ -70,31 +70,52 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Contributions</h2>
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=code-with-sayad-babu-dev&show_icons=true&theme=tokyonight" 
-    height="180" alt="GitHub Stats" 
-    style="border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-sayad-babu-dev&theme=tokyonight" 
-    alt="GitHub Contributions Streak" 
-    height="180" 
-    style="border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
-  />
-</p>
 
-<!-- আলাদা করে Top Languages -->
+
+<h2 align="center">📊 GitHub Stats & Contributions</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=code-with-sayad-babu-dev&show_icons=true&theme=tokyonight" 
+        height="180" 
+        alt="GitHub Stats" 
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://nirzak-streak-stats.vercel.app/?user=code-with-sayad-babu-dev&theme=tokyonight&hide_border=true" 
+        height="180"
+        alt="GitHub Streak Stats" 
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
 <h2 align="center">🛠️ Top Languages</h2>
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-sayad-babu-dev&layout=compact&theme=tokyonight" 
-    height="180" 
-    alt="Top Languages" 
-    style="border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
-  />
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-sayad-babu-dev&layout=compact&theme=tokyonight" 
+        height="180" 
+        alt="Top Languages" 
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://github-contributor-stats.vercel.app/api?username=code-with-sayad-babu-dev&limit=5&theme=transparent&combine_all_yearly_contributions=true" 
+        height="180"
+        alt="Top Contributors"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -110,3 +131,8 @@
 </p>
 
 ---
+
+
+
+
+
